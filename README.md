@@ -1,2 +1,2 @@
-# excel-for-data-analysis
-Work done in excel. Visualizations, pivot tables, macros, data cleaning etc.
+# Data Analysis
+Work done in several tools, like excel, sql, tableau and python
